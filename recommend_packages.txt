@@ -13,7 +13,7 @@ highlight-selected
 japanese-wrap
 merge-conflicts
 minimap
-minimap-autohide@
+minimap-autohide
 minimap-find-and-replace
 minimap-git-diff
 minimap-highlight-selected
