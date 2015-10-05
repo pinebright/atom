@@ -11,7 +11,7 @@ apm install --packages-file recommend_packages.txt
 Open `color.less` and edit it.
 
 ```bash
-cd ~/.atom/monokai/styles/
+cd ~/.atom/packages/monokai/styles/
 vi color.less
 ```
 
