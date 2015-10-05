@@ -24,6 +24,5 @@ project-manager
 script
 set-syntax
 symbols-tree-view
-term2
 travis-ci-status
 tree-view-git-status
