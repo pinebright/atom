@@ -2,7 +2,7 @@
 
 ## How to install
 
-```zsh
+```bash
 apm install --packages-file recommend_packages.txt
 ```
 
