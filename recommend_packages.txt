@@ -1,6 +1,6 @@
-Sublime-Style-Column-Selection
 atom-alignment
 atom-dark-ui-slim
+atom-mermaid
 autocomplete-paths
 autocomplete-python
 autocomplete-ruby
@@ -26,6 +26,7 @@ open-recent
 project-manager
 script
 set-syntax
+Sublime-Style-Column-Selection
 symbols-tree-view
 travis-ci-status
 tree-view-git-status
